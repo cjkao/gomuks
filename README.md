@@ -16,3 +16,7 @@ For installation and usage instructions, see [docs.mau.fi](https://docs.mau.fi/g
 
 ## Discussion
 Matrix room: [#gomuks:maunium.net](https://matrix.to/#/#gomuks:maunium.net)
+
+
+## Mac Build
+prerequest: install libolm by `brew instll libolm`
